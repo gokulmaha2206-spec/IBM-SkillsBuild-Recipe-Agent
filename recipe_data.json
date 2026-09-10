@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Quick Garlic Tomato Pasta",
+    "ingredients": ["pasta", "tomatoes", "garlic", "olive oil", "salt"],
+    "instructions": "1. Boil pasta. 2. Sauté garlic and tomatoes in olive oil. 3. Toss pasta with sauce.",
+    "substitutions": "Use canned tomato sauce if fresh tomatoes are unavailable.",
+    "tips": "Add red pepper flakes for extra heat."
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "ingredients": ["bell peppers", "soy sauce", "garlic", "rice", "vegetable oil"],
+    "instructions": "1. Sauté garlic and vegetables in oil. 2. Stir in soy sauce. 3. Serve hot over cooked rice.",
+    "substitutions": "Replace rice with noodles or quinoa.",
+    "tips": "Keep the heat high for crisp vegetables."
+  }
+]
